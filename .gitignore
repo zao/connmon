@@ -1,0 +1,5 @@
+﻿.vs
+connmon/x64
+x64
+connmon.vcxproj.user
+*.aps
